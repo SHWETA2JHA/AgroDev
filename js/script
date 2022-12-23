@@ -3,7 +3,7 @@ jQuery(function ($) {
 
 	
 	/*  Fixed header
-	/* ----------------------------------------------------------- */
+	
 	$(window).on('scroll', function () {
 
 		// fixedHeader on scroll
